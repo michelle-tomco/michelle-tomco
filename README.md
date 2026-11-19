@@ -24,5 +24,7 @@ I'm Michelle Tomco, a Business and Marketing student at Brigham Young University
 
 ## Let's Connect!
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]](https://www.linkedin.com/in/michelletomco/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michelletomco/)
+
+Feel free to explore my work and don't hesitate to reach out.
 Feel free to explore my work and don't hesitate to reach out. 🚀
